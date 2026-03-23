@@ -25,13 +25,21 @@ It simulates a real-world **Food Delivery Application**, where users can browse 
 
 ## 📂 Project Structure
 fastapi-food-delivery-app/
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── screenshots/
+
     │
+    
     └── Outputs 1 - 20
+    
 
 
 ---
