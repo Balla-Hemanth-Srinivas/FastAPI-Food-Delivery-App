@@ -142,14 +142,15 @@ fastapi-food-delivery-app/
 ## ▶️ How to Run
 
 ### Install dependencies
-'''
+```cmd
 pip install -r requirements.txt
-'''
+```
 
 ### Run server
-'''
+```cmd
 uvicorn main:app --reload
-'''
+```
+
 
 
 ### Open Swagger
